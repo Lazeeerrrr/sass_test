@@ -1,0 +1,1 @@
+body:before{white-space:pre;font-family:monospace;content:"Error: Illegal nesting: Nothing may be nested beneath variable declarations.\A         on line 2 of E:\WEB\Lessons\layout\Sass_test\scss\styles.sass\A \A 1: $font-size: 24px\A 2:   \A 3:   html\A 4:   background-color: blue\A 5: \A 6: .container\A 7:   background-color: white"}
